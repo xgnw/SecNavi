@@ -52,6 +52,10 @@ var FrontGuide = {
                 'Title': '物联网安全社区',
                 'Href': 'http://www.iotsec.zone/'
             }, {
+                'Name': '安世加',
+                'Title': '安世加专注于安全行业',
+                'Href': 'https://anquanjia.net.cn/'
+            }, {
                 'Name': 'Expliot',
                 'Title': 'Expliot IOT商城',
                 'Href': 'https://store.expliot.io/'
@@ -146,6 +150,10 @@ var FrontGuide = {
                 'Name': 'T Wiki云安全知识库',
                 'Title': '面向云安全方向的知识文库',
                 'Href': 'https://wiki.teamssix.com/'
+            }, {
+                'Name': 'hackinn安全知识库',
+                'Title': 'hackinn安全知识库',
+                'Href': 'https://www.hackinn.com/'
             }]
         }, {
             "pageT2": "漏洞平台",
@@ -1204,6 +1212,10 @@ var FrontGuide = {
                 'Name': '聚合数据API接口',
                 'Title': '聚合第三方平台',
                 'Href': 'https://www.juhe.cn'
+            }, {
+                'Name': 'Apifox管理平台',
+                'Title': 'API 设计、开发、测试一体化协作平台',
+                'Href': 'https://apifox.com/'
             }]
         }, {
             "pageT2": "项目外包",
@@ -2086,6 +2098,10 @@ var FrontGuide = {
                 'Name': 'GoogleTrends',
                 'Title': '谷歌趋势',
                 'Href': 'https://trends.google.com/trends/'
+            }, {
+                'Name': 'SimilarWeb站点流量分析',
+                'Title': '网站、移动应用的流量及用户参与度',
+                'Href': 'https://www.similarweb.com/corp/zh/investors/web-traffic/'
             }]
         }, {
             "pageT2": "空间搜索",
