@@ -237,6 +237,10 @@ var FrontGuide = {
                 'Name': 'Bugcrowd',
                 'Title': 'FIND VULNERABILITIES OTHER TOOLS MISS',
                 'Href': 'https://www.bugcrowd.com/'
+            }, {
+                'Name': 'Intigriti',
+                'Title': 'Global crowdsourced security provider, trusted by the world\'s largest organizations',
+                'Href': 'https://www.intigriti.com/'
             }]
         }, {
             "pageT2": "漏洞信息",
@@ -1043,6 +1047,10 @@ var FrontGuide = {
                 'Name': 'Web漏洞靶机平台',
                 'Title': '一个好玩的Web安全-漏洞测试平台',
                 'Href': 'https://github.com/zhuifengshaonianhanlu/pikachu'
+            }, {
+                'Name': 'vulnstack红日靶场',
+                'Title': '红日靶场',
+                'Href': 'http://vulnstack.qiyuanxuetang.net/'
             }]
         }, {
             "pageT2": "技能图谱",
@@ -1345,6 +1353,10 @@ var FrontGuide = {
                 'Title': 'V2EX 是一个关于分享和探索的地方',
                 'Href': 'https://www.v2ex.com/'
             }, {
+                'Name': 'Pkmer知识管理社区',
+                'Title': '打造东半球强大的知识管理社区',
+                'Href': 'https://pkmer.cn/#home'
+            }, {
                 'Name': '站酷',
                 'Title': '站酷 (ZCOOL) - 设计师互动平台 - 打开站酷，发现更好的设计！',
                 'Href': 'https://www.zcool.com.cn/'
@@ -1490,6 +1502,26 @@ var FrontGuide = {
                 'Name': 'ChatGPT角色切换版',
                 'Title': 'ChatGPT角色切换版',
                 'Href': 'http://hhgo.huhuwang.cn/'
+            }, {
+                'Name': '阿里通义',
+                'Title': '阿里通义',
+                'Href': 'https://tongyi.aliyun.com/'
+            }, {
+                'Name': 'AI驿站',
+                'Title': 'AI驿站',
+                'Href': 'https://www.51aiyz.com/'
+            }, {
+                'Name': '深言达意',
+                'Title': '懂文字，更懂你',
+                'Href': 'https://www.shenyandayi.com/'
+            }, {
+                'Name': 'PMAI',
+                'Title': 'PMAI',
+                'Href': 'https://www.pm-ai.cn/'
+            }, {
+                'Name': 'AI工具集',
+                'Title': 'AI工具集',
+                'Href': 'https://ai-bot.cn/'
             }]
         }, {
             "pageT2": "内容运营",
@@ -2102,6 +2134,10 @@ var FrontGuide = {
                 'Name': 'SimilarWeb站点流量分析',
                 'Title': '网站、移动应用的流量及用户参与度',
                 'Href': 'https://www.similarweb.com/corp/zh/investors/web-traffic/'
+            }, {
+                'Name': '中国庭审公开网',
+                'Title': '中国庭审公开网',
+                'Href': 'https://tingshen.court.gov.cn/'
             }]
         }, {
             "pageT2": "空间搜索",
